@@ -229,9 +229,9 @@ Foco em desenvolvimento backend e cloud — construindo produtos reais enquanto 
 **Certifications**
 
 - Microsoft Azure Fundamentals (AZ-900) — **Certified**
-- AWS Certified Cloud Practitioner — **Certified**
-- Microsoft Azure AI Fundamentals (AI-900) — *In progress*
-- AWS AI Practitioner — *In progress*
+- AWS Certified Cloud Practitioner (CLF-C02) — **Certified**
+- Microsoft Azure AI Fundamentals (AI-901) — *In progress*
+- AWS AI Practitioner (AIF-C01) — **Certified**
 
 ---
 
