@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=009739&height=200&section=header&text=Hey%20there!%20I'm%20Arthur%20Ferreira&fontSize=38&fontColor=FFDD03&animation=fadeIn" alt="Arthur Ferreira" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=FFDD03&center=true&vCenter=true&width=620&lines=Software+Engineer;Building+RAG+%26+agentic+AI+workflows;LLM+APIs+%C2%B7+tool+use+%C2%B7+vector+search+%C2%B7+embeddings;Serverless+%26+event-driven;AWS+%26+Azure+cloud+certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=FFDD03&center=true&vCenter=true&width=620&lines=Junior+Software+Engineer;Building+RAG+%26+agentic+AI+workflows;LLM+APIs+%C2%B7+tool+use+%C2%B7+vector+search+%C2%B7+embeddings;Serverless+%26+event-driven;AWS+%26+Azure+cloud+certified" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/arthur-ferreira-66815524a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,12 +13,12 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Software_Engineer-1f883d?style=flat-square" alt="Junior Software Engineer" />
+  <img src="https://img.shields.io/badge/Junior_Software_Engineer-1f883d?style=flat-square" alt="Junior Software Engineer" />
   <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Backend-0a66c2?style=flat-square" alt="Focus full stack and backend" />
   <img src="https://img.shields.io/badge/Cloud-Azure_%26_AWS-6f42c1?style=flat-square" alt="Cloud Azure and AWS" />
 </p>
 
-<em>Junior Software engineer based in Finland — I build across backend, cloud, and AI, out of genuine passion for clean, well-architected software.</em>
+<em>Junior software engineer based in Finland — I build across backend, cloud, and AI, out of genuine passion for clean, well-architected software.</em>
 
 <b>Languages:</b> English · <a href="#suomi">Suomi</a> · <a href="#portugues">Português</a>
 
@@ -28,7 +28,7 @@
 
 ## About Me
 
-Hi, I'm Arthur — a Junior software engineer based in Finland and originally from Brazil. I graduated from Savo Vocational College in Software Development.
+Hi, I'm Arthur — a junior software engineer based in Finland and originally from Brazil. I graduated from Savo Vocational College in Software Development.
 
 I work mostly with **React, Next.js, TypeScript, Node.js, and ASP.NET Core**, and I build backend services with Hono and SQL. I have hands-on experience with Docker, deployments, and shipping real projects end to end, and I'm deepening my cloud and AI skills through the Microsoft and AWS certification paths.
 
@@ -41,7 +41,7 @@ I focus on backend and cloud engineering — building real products while contin
 <details>
 <summary><b>Suomi</b></summary>
 
-Hei, olen Arthur — ohjelmistoinsinööri. Asun Suomessa ja olen alun perin Brasiliasta. Valmistuin Savon ammattiopistosta ohjelmistokehityksen linjalta.
+Hei, olen Arthur — junior-ohjelmistoinsinööri. Asun Suomessa ja olen alun perin Brasiliasta. Valmistuin Savon ammattiopistosta ohjelmistokehityksen linjalta.
 
 Työskentelen pääasiassa Reactilla, Next.js:llä, TypeScriptillä, Node.js:llä ja ASP.NET Corella, ja rakennan backend-palveluita Hono- ja SQL-teknologioilla. Minulla on käytännön kokemusta Dockerista, deploy-prosesseista ja oikeiden projektien toteutuksesta, ja syvennän jatkuvasti pilvi- ja AI-osaamistani Microsoftin ja AWS:n sertifikaattipoluilla.
 
@@ -54,7 +54,7 @@ Keskityn backend- ja pilvikehitykseen sekä rakennan oikeita tuotteita ja kasvat
 <details>
 <summary><b>Português</b></summary>
 
-Olá, eu sou o Arthur — engenheiro de software, morando na Finlândia e originalmente do Brasil. Sou formado pelo Savo Vocational College em Desenvolvimento de Software.
+Olá, eu sou o Arthur — engenheiro de software júnior, morando na Finlândia e originalmente do Brasil. Sou formado pelo Savo Vocational College em Desenvolvimento de Software.
 
 Trabalho principalmente com React, Next.js, TypeScript, Node.js e ASP.NET Core, e desenvolvo serviços backend com Hono e SQL. Tenho experiência prática com Docker, deploy e entrega de projetos reais de ponta a ponta, e estou aprofundando meus conhecimentos de cloud e IA pelos caminhos de certificação da Microsoft e da AWS.
 
