@@ -13,12 +13,12 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Software_Engineer-1f883d?style=flat-square" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/Software_Engineer-1f883d?style=flat-square" alt="Junior Software Engineer" />
   <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Backend-0a66c2?style=flat-square" alt="Focus full stack and backend" />
   <img src="https://img.shields.io/badge/Cloud-Azure_%26_AWS-6f42c1?style=flat-square" alt="Cloud Azure and AWS" />
 </p>
 
-<em>Software engineer based in Finland — I build across backend, cloud, and AI, out of genuine passion for clean, well-architected software.</em>
+<em>Junior Software engineer based in Finland — I build across backend, cloud, and AI, out of genuine passion for clean, well-architected software.</em>
 
 <b>Languages:</b> English · <a href="#suomi">Suomi</a> · <a href="#portugues">Português</a>
 
@@ -28,7 +28,7 @@
 
 ## About Me
 
-Hi, I'm Arthur — a software engineer based in Finland and originally from Brazil. I graduated from Savo Vocational College in Software Development.
+Hi, I'm Arthur — a Junior software engineer based in Finland and originally from Brazil. I graduated from Savo Vocational College in Software Development.
 
 I work mostly with **React, Next.js, TypeScript, Node.js, and ASP.NET Core**, and I build backend services with Hono and SQL. I have hands-on experience with Docker, deployments, and shipping real projects end to end, and I'm deepening my cloud and AI skills through the Microsoft and AWS certification paths.
 
